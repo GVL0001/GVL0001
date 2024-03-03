@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Apasionado QA Tester desde México.<br><br>- 🔭 Actualmente me encuentro estudiando una ingeniería en TIC dentro del Tecnólogico Nacional de México 🇲🇽<br>- 📚 Estoy estudiando arduamente para especializarme en QA Testing Automation ⚙️<br>- ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 🤖<br>- ⚡ Soy un gran fan de los animales y tengo dos adorables cuyos de mascota 🐹</p>
+<p align="left">Apasionado QA Tester desde México.<br><br>- 🔭 Actualmente me encuentro estudiando una ingeniería en TIC dentro del Tecnólogico Nacional de México 🇲🇽<br>- 📄Visita mi <a href="https://plaid-glitter-c55.notion.site/Portfolio-Gustavo-Vargas-7e36695b1ee1405e9e961c39e9006a1e?pvs=4" target="_blank">portfolio</a> para conocer más sobre mis proyectos y habilidades.<br>- 📚 Estoy estudiando arduamente para especializarme en QA Testing Automation ⚙️<br>- ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 🤖<br>- ⚡ Soy un gran fan de los animales y tengo dos adorables cuyos de mascota 🐹</p>
 
 ###
 
